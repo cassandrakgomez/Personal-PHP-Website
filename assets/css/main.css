@@ -1,0 +1,10 @@
+.help-block.alert-box--error,
+.help-block.alert-box--success {
+  display: block;
+  padding: 0.1em 1em;
+  border-radius: var(--border-radius);
+  font-size: 0.9em;
+  margin-top: 0.5em;
+}
+/* CSS Document */
+
